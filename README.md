@@ -6,7 +6,7 @@ tags:
   - hasura
 ---
 
-# hasura example
+# hasura on PipeOps
 
 This example sets up a [hasura](https://hasura.io/opensource/) instance with a [PostgreSQL](https://www.postgresql.org/) database.
 

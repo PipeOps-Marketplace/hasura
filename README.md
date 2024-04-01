@@ -1,21 +1,21 @@
 ---
-title: Hasura
-description: A Hasura instance with a PostgreSQL database
+title: hasura
+description: A hasura instance with a PostgreSQL database
 tags:
   - postgresql
   - hasura
 ---
 
-# Hasura example
+# hasura example
 
-This example sets up a [Hasura](https://hasura.io/opensource/) instance with a [PostgreSQL](https://www.postgresql.org/) database.
+This example sets up a [hasura](https://hasura.io/opensource/) instance with a [PostgreSQL](https://www.postgresql.org/) database.
 
 [![Deploy on PipeOps](https://railway.app/button.svg)](https://railway.app/new/template/hasura)
 
 ## ✨ Features
 
 - Postgres
-- Hasura
+- hasura
 
 ## 💁‍♀️ How to use
 
@@ -26,4 +26,4 @@ This example sets up a [Hasura](https://hasura.io/opensource/) instance with a [
 ## 📝 Notes
 
 - This starter automagically provisions a PostgreSQL database for you when you click the `Deploy on pipeops`. The `DATABASE_URL` enviroment variable used in the `Dockerfile` is picked up from there.
-- The Hasura console and dev mode are enabled by default for a better development experience. You may want to read the [production checklist](https://hasura.io/docs/latest/graphql/core/deployment/production-checklist.html) before going live with your app.
+- The hasura console and dev mode are enabled by default for a better development experience. You may want to read the [production checklist](https://hasura.io/docs/latest/graphql/core/deployment/production-checklist.html) before going live with your app.

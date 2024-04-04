@@ -10,7 +10,7 @@ tags:
 
 This example sets up a [hasura](https://hasura.io/opensource/) instance with a [PostgreSQL](https://www.postgresql.org/) database.
 
-[![Deploy on PipeOps](https://railway.app/button.svg)](https://railway.app/new/template/hasura)
+[![Deploy on PipeOps](https://pub-a1fbf367a4cd458487cfa3f29154ac93.r2.dev/Default.png)](https://railway.app/template/0ELOuE?referralCode=IQhE0B)
 
 ## ✨ Features
 
